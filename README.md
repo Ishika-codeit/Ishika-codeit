@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ishika-codeit
+- 👋 Hi coders, myself  ishika..
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning web devlopment.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by my linked.in profile
+- 🌱 I’m currently learning web devlopment skills to improve technical skills..
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: we all are learner 
+- ⚡ Fun fact: we all are learner..still feel a code devloper...
+- ✨pursuing engineering in computer science field...
 
 <!---
 Ishika-codeit/Ishika-codeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
