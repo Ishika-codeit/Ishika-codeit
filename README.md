@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YAHAN_APNA_BANNER_URL_PASTE_KARO" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ishika Saxena</h1>
 <h3 align="center">🚀 MERN Stack Developer | Open Source Contributor | CSE Student</h3>
 
