@@ -22,6 +22,30 @@
 
 ---
 
+## Tech Stack
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=react,React,61DAFB;node.js,Node.js,339933;mongodb,MongoDB,47A248;&line2=javascript,JavaScript,F7DF1E;java,Java,ED8B00;python,Python,3776AB;" />
+</p>
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -36,13 +60,7 @@
 
 ---
 
-## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,c,cpp,java,python" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -58,13 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ishika-codeit&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -74,24 +85,33 @@
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 📝 TechieBlog
-Modern blogging platform built using React and Appwrite.
+### 🏨 StayEase+
+> AI-powered accommodation and parking platform built using MERN Stack and AI Integration.
 
-### 🎯 Placement Resources
-Platform to discover and share placement preparation resources.
-
-### 📊 Student Behaviour XAI
-Machine Learning project focused on explainable AI.
-
-### 🔗 URL Shortener
-Node.js + MongoDB based URL shortening service.
-
-### 🌐 Personal Portfolio
-Responsive portfolio website showcasing projects and skills.
+**Tech:** MERN • Tailwind CSS • AI
 
 ---
+
+### 📊 Student Performance & Behaviour Analysis
+> Explainable AI system predicting academic performance and dropout risk.
+
+**Tech:** Python • Machine Learning • Scikit-Learn • XAI
+
+---
+
+### 🛒 MeraMarket
+> Hyperlocal e-commerce platform empowering local businesses through digital commerce.
+
+**Tech:** MERN • Tailwind CSS
+
+---
+
+### 🏪 Store Management System
+> Scalable inventory and sales management database solution.
+
+**Tech:** MySQL
 
 ## 💡 Developer Quote
 
