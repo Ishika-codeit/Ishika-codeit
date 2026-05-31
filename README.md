@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YAHAN_APNA_BANNER_URL_PASTE_KARO" width="100%" />
+  <img src="https://github.com/Ishika-codeit/Ishika-codeit/blob/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishika Saxena</h1>
