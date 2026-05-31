@@ -1,70 +1,32 @@
-````md
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Ishika%20Saxena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ishika Saxena</h1>
-
-<h3 align="center">
-🚀 MERN Stack Developer | Open Source Contributor | Computer Science Student
-</h3>
+<h3 align="center">🚀 MERN Stack Developer | Open Source Contributor | CSE Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things;Building+Projects+That+Matter" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ishika-codeit&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Ishika-codeit?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Ishika-codeit?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Building+Cool+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Student
-
-💻 Passionate Full Stack Developer
-
-🚀 Building scalable and responsive web applications
-
-🌱 Currently learning:
-- Advanced MERN Stack
-- Data Structures & Algorithms
-- System Design Fundamentals
-
-🤝 Looking for:
-- Software Development Internships
-- Open Source Contributions
-- Real-World Development Opportunities
-
-⚡ Fun Fact:
-I enjoy turning ideas into impactful web applications.
-
-📍 India
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Web Development
+- 🌱 Currently learning Advanced MERN Stack & DSA
+- 🚀 Building Full Stack Projects
+- 🤝 Open to Internship Opportunities
+- ⚡ Fun Fact: I love turning ideas into web applications
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Ishika-codeit" target="_blank">
+<a href="https://github.com/Ishika-codeit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://ishikapersonal-portfolio.netlify.app/" target="_blank">
+<a href="https://ishikapersonal-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -72,60 +34,22 @@ I enjoy turning ideas into impactful web applications.
 
 ## 🚀 Tech Stack
 
-### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,c,cpp,java,python" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishika-codeit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishika-codeit&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-codeit&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-codeit&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-codeit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-codeit&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -133,42 +57,35 @@ I enjoy turning ideas into impactful web applications.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ishika-codeit&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ishika-codeit&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Graph
 
-### 📝 TechieBlog
-A modern blogging platform built using React, Appwrite, Tailwind CSS and Authentication.
-
-### 🎯 Placement Resources
-A platform to discover and share the best placement preparation resources.
-
-### 📊 Student Behaviour XAI
-Machine Learning project focused on explainable AI and student performance prediction.
-
-### 🔗 URL Shortener
-Node.js and MongoDB based URL shortening application with analytics.
-
-### 🌐 Personal Portfolio
-Modern responsive portfolio website showcasing projects, achievements and skills.
-
-### 📰 The Cawnpore
-Digital magazine platform with responsive design and engaging UI.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishika-codeit&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🌟 Featured Projects
 
-```text
-✔ MERN Stack Development
-✔ Data Structures & Algorithms
-✔ REST APIs
-✔ Backend Architecture
-✔ Open Source Contribution
-````
+### 📝 TechieBlog
+Modern blogging platform built using React and Appwrite.
+
+### 🎯 Placement Resources
+Platform to discover and share placement preparation resources.
+
+### 📊 Student Behaviour XAI
+Machine Learning project focused on explainable AI.
+
+### 🔗 URL Shortener
+Node.js + MongoDB based URL shortening service.
+
+### 🌐 Personal Portfolio
+Responsive portfolio website showcasing projects and skills.
 
 ---
 
@@ -177,6 +94,12 @@ Digital magazine platform with responsive design and engaging UI.
 > "Consistency beats motivation. Build. Learn. Improve. Repeat."
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishika-codeit&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+
 
 ## ⚡ Fun Code
 
